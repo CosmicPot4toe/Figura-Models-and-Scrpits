@@ -1,8 +1,7 @@
 {
 	"meta": {
-		"Comments": "the train is from LittleLogistics, I used a template for the little guy in the cabin",
 		"format_version": "4.0",
-		"creation_time": 1649389872,
+		"creation_time": 1649888979,
 		"model_format": "free",
 		"box_uv": false
 	},
@@ -103,7 +102,7 @@
 			"to": [6, 16.001, 8],
 			"autouv": 0,
 			"color": 6,
-			"origin": [0, 0, 0],
+			"origin": [0, 10, 1],
 			"uv_offset": [46, 0],
 			"faces": {
 				"north": {
@@ -142,7 +141,7 @@
 			"to": [5, 17, 7],
 			"autouv": 0,
 			"color": 6,
-			"origin": [0, 0, 0],
+			"origin": [0, 10, 1],
 			"uv_offset": [32, 23],
 			"faces": {
 				"north": {
@@ -1496,7 +1495,7 @@
 	],
 	"outliner": [
 		{
-			"name": "NO_PARENT_Steam_engine",
+			"name": "NO_PARENT_Train",
 			"origin": [0, 0, -3],
 			"color": 0,
 			"uuid": "fa9b75ca-6896-e3e3-2645-60329c2e2af5",
@@ -1512,7 +1511,7 @@
 					"color": 0,
 					"uuid": "4a01e80b-e039-07ae-7c87-6f41d8061134",
 					"export": true,
-					"isOpen": true,
+					"isOpen": false,
 					"locked": false,
 					"visibility": true,
 					"autouv": 0,
@@ -1524,7 +1523,7 @@
 							"color": 0,
 							"uuid": "b9706ea3-f0a3-0255-5ef6-f4cf3f11c82c",
 							"export": true,
-							"isOpen": false,
+							"isOpen": true,
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
@@ -1571,7 +1570,7 @@
 									"color": 0,
 									"uuid": "51cea0b2-f748-e88b-bacc-7c41944191aa",
 									"export": true,
-									"isOpen": true,
+									"isOpen": false,
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
@@ -1625,7 +1624,7 @@
 									"color": 0,
 									"uuid": "192669bf-719d-9f34-cdf4-4180e43c7e9e",
 									"export": true,
-									"isOpen": true,
+									"isOpen": false,
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
@@ -1902,7 +1901,7 @@
 					]
 				},
 				"fa9b75ca-6896-e3e3-2645-60329c2e2af5": {
-					"name": "NO_PARENT_Steam_engine",
+					"name": "NO_PARENT_Train",
 					"type": "bone",
 					"keyframes": [
 						{
